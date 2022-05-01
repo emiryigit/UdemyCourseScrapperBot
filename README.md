@@ -17,4 +17,4 @@
 
 # Credits:
 * [GautamKumar](https://github.com/gautamajay52) for [Main Repo](https://github.com/gautamajay52/UdemyBot)
-* [BodyCatcher](https://github.com/BodyCatcher) for [update the bot](https://github.com/BodyCatcher/UdemyBot)
+* [BodyCatcher](https://github.com/BodyCatcher) for [update the bot](https://github.com/BodyCatcher/UdemyCourseScrapperBot)
