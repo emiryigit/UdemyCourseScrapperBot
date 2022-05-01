@@ -14,7 +14,7 @@
 2) Deploy bot via [This Link](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/BodyCatcher/UdemyCourseScrapperBot)
 !!! Don't forget to write your own github username in your username field !!!
 4) Fill all the details.
-5) Turn on worker from resources.
+5) Turn on dynos from resources.
 6) Enjoy 👌
 
 # ⚡ Credits: 🌎
