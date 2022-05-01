@@ -6,9 +6,9 @@
         "github",
         "udemy"
     ],
-    "repository": "https://github.com/gautamajay52/UdemyBot",
-    "success_url": "https://t.me/gbotstoresupport",
-    "website": "https://github.com/gautamajay52",
+    "repository": "https://github.com/BodyCatcher/UdemyCourseScrapperBot",
+    "success_url": "https://discord.gg/rkvnDa3qhP",
+    "website": "https://github.com/BodyCatcher/UdemyCourseScrapperBot",
     "env": {
         "API_HASH": {
             "description": "Get one from https://my.telegram.org/apps",
