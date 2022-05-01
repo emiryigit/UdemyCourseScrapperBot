@@ -8,12 +8,12 @@
 * `BOT TOKEN`: From [BotFather](https://t.me/botfather/)
 
 
-## ⚡ Deploy to Heroku: 🔥
+## Deploy to Heroku: 
 
 1) Deploy bot via [This Link](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/BodyCatcher/UdemyCourseScrapperBot)
 2) Fill all the details.
 3) Turn on dynos from resources.
-4) Enjoy 👌
+4) Enjoy.
 
 # Credits:
 * [GautamKumar](https://github.com/gautamajay52) for [Main Repo](https://github.com/gautamajay52/UdemyBot)
