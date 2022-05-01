@@ -16,5 +16,5 @@
 4) Enjoy.
 
 # Credits:
-* [GautamKumar](https://github.com/gautamajay52) for [main Repo](https://github.com/gautamajay52/UdemyBot)
+* [GautamKumar](https://github.com/gautamajay52) for [main repo](https://github.com/gautamajay52/UdemyBot)
 * [BodyCatcher](https://github.com/BodyCatcher) for [update the bot](https://github.com/BodyCatcher/UdemyCourseScrapperBot)
