@@ -1,7 +1,7 @@
-# ⚡ UdemyBot 😋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgautBodyCatcher%2FUdemyCourseScrapperBot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/BodyCatcher/UdemyCourseScrapperBot)
+# UdemyCourseScrapperBot  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgautBodyCatcher%2FUdemyCourseScrapperBot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/BodyCatcher/UdemyCourseScrapperBot)
 
 
-## ⚡ Vars: 🔥
+## Config Vars:
 
 * `TELEGRAM API_HASH`: Get one from [HERE](https://my.telegram.org/apps)
 * `TELEGRAM API_ID`: Get one from [HERE](https://my.telegram.org/apps)
@@ -15,6 +15,6 @@
 3) Turn on dynos from resources.
 4) Enjoy 👌
 
-# ⚡ Credits: 🌎
-* [GautamKumar](https://github.com/gautamajay52) for [Main Repo](https://github.com/gautamajay52/UdemyBot)😬😁
+# Credits:
+* [GautamKumar](https://github.com/gautamajay52) for [Main Repo](https://github.com/gautamajay52/UdemyBot)
 * [BodyCatcher](https://github.com/BodyCatcher) for [update the bot](https://github.com/BodyCatcher/UdemyBot)
