@@ -10,7 +10,7 @@
 
 ## ⚡ Deploy to Heroku: 🔥
 
-1) Fork the [Repo](https://github.com/gautamajay52/UdemyBot)
+1) Fork the [Repo](https://github.com/BodyCatcher/UdemyCourseScrapperBot)
 2) Deploy bot via [This Link](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/BodyCatcher/UdemyCourseScrapperBot)
 !!! Don't forget to write your own github username in your username field !!!
 4) Fill all the details.
